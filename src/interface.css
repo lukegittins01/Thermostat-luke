@@ -1,12 +1,2 @@
 
-  low-usage {
-    color: green;
-  }
-
-  medium-usage {
-    color: black;
-  }
-
-  high-usage {
-    color: red;
-  }
+  background-image: url("clouds.jpg");
